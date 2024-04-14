@@ -10,6 +10,8 @@ The data includes information regarding three key variables:
 2. The number of reviews a listing recieves per month
 3. The minimum number of nights a listing can be booked for
 
+To reach accurate performance estimates, extensive cleaning and transformations of features was required, as the features provided unrealiable information in their original form.
+
 Once cleaned and transformed, these variables will allow us to approximate the income i.e. performance of a listing.
 
 
