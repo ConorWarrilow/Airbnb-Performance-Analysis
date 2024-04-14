@@ -8,7 +8,7 @@ The data sets were obtained from the [Inside airbnb](https://insideairbnb.com/) 
 The data includes information regarding three key variables: The price of a listing, the number of reviews a listing recieves per month, and the minimum number of nights a listing can be booked for. Once cleaned and transformed, these variables will allow us to approximate the income i.e. performance of a listing.
 
 ## The results
-Presented in pdf format for easy viewing[Contribution guidelines for this project](docs/airbnbpresentation.pdf)
+Presented in pdf format for easy viewing[Contribution guidelines for this project](main/airbnbpresentation.pdf)
 
 
 
