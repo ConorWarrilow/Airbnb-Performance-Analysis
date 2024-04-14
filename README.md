@@ -15,7 +15,10 @@ Once cleaned and transformed, these variables will allow us to approximate the i
 
 ## Outcome
 [The final results can be found in a presentation here.](AirbnbPresentation.pdf)
-Overall, the results of the project were positive, and given the limitations of the data, we were able to produce relatively accurate performance estimates.
+
+Overall the project was successful, as despite the limitations of the data, we were able to produce relatively accurate performance estimates. From here, we were able to assess which factors played the biggest roles in the performance of a listing, and better understand the reasoning behind a listing's success. This information can then be considered when deciding whether to purchase a property with the intention of utilizing it as an Airbnb.
+
+
 
 
 
