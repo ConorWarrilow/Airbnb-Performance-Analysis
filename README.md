@@ -14,7 +14,7 @@ Through cleaning and transformations, these variables will allow us to approxima
 
 
 ## Outcome
-[A summary of the final results can be found in a presentation here.](AirbnbPresentation1.0.pdf)
+[A summary of the final results can be found in a presentation here.](AirbnbPresentation1.1.pdf)
 
 Despite the limitations of the data, we were able to produce relatively accurate performance estimates. From here, we were able to assess which factors played the biggest roles in the performance of a listing, and better understand the reasons behind a listing's success. This information can then be considered when deciding whether to purchase a property with the intention of utilizing it as an Airbnb.
 
