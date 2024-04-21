@@ -18,4 +18,6 @@ Through cleaning and transformations, these variables will allow us to approxima
 
 Despite the limitations of the data, we were able to produce relatively accurate performance estimates. From here, we were able to assess which factors played the biggest roles in the performance of a listing, and better understand the reasons behind a listing's success. This information can then be considered when deciding whether to purchase a property with the intention of utilizing it as an Airbnb.
 
+Note: This project is still in progress and will develop over time.
+
   
